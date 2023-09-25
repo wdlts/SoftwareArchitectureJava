@@ -2,7 +2,7 @@ package DZ2.UMLSingleton;
 
 public class SingletonObject {
 
-    private static SingletonObject object = new SingletonObject();
+    private static final SingletonObject object = new SingletonObject();
 
     private SingletonObject() {
     }

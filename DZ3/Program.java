@@ -55,7 +55,7 @@ public class Program {
     public static void main(String[] args) {
 
         Harvester harvester = new Harvester("A", "B", Color.BLACK);
-        harvester.fuelType= FuelType.valueOf("Gasoline");
+        harvester.fuelType= FuelType.Gasoline;
 
 
         RefuelingStation refuelingStation = new RefuelingStation();
@@ -64,7 +64,7 @@ public class Program {
 
         CarWash carWash = new CarWash();
         harvester.setCarWash(carWash);
-        harvester.wash(WashType.Luxury);
+        harvester.wash(WashType.BasePlusRags);
 
     }
 
