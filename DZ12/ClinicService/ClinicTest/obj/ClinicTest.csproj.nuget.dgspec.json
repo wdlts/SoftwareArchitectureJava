@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\#GB\\#SoftwareArchitecture\\Lesson12\\HW12\\program_architect\\hometask_12\\ClinicService\\ClinicTest\\ClinicTest.csproj": {}
+  },
+  "projects": {
+    "G:\\#GB\\#SoftwareArchitecture\\Lesson12\\HW12\\program_architect\\hometask_12\\ClinicService\\ClinicService\\ClinicService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\#GB\\#SoftwareArchitecture\\Lesson12\\HW12\\program_architect\\hometask_12\\ClinicService\\ClinicService\\ClinicService.csproj",
+        "projectName": "ClinicService",
+        "projectPath": "G:\\#GB\\#SoftwareArchitecture\\Lesson12\\HW12\\program_architect\\hometask_12\\ClinicService\\ClinicService\\ClinicService.csproj",
+        "packagesPath": "C:\\Users\\wdelements\\.nuget\\packages\\",
+        "outputPath": "G:\\#GB\\#SoftwareArchitecture\\Lesson12\\HW12\\program_architect\\hometask_12\\ClinicService\\ClinicService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wdelements\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\#GB\\#SoftwareArchitecture\\Lesson12\\HW12\\program_architect\\hometask_12\\ClinicService\\ClinicTest\\ClinicTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\#GB\\#SoftwareArchitecture\\Lesson12\\HW12\\program_architect\\hometask_12\\ClinicService\\ClinicTest\\ClinicTest.csproj",
+        "projectName": "ClinicTest",
+        "projectPath": "G:\\#GB\\#SoftwareArchitecture\\Lesson12\\HW12\\program_architect\\hometask_12\\ClinicService\\ClinicTest\\ClinicTest.csproj",
+        "packagesPath": "C:\\Users\\wdelements\\.nuget\\packages\\",
+        "outputPath": "G:\\#GB\\#SoftwareArchitecture\\Lesson12\\HW12\\program_architect\\hometask_12\\ClinicService\\ClinicTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wdelements\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "G:\\#GB\\#SoftwareArchitecture\\Lesson12\\HW12\\program_architect\\hometask_12\\ClinicService\\ClinicService\\ClinicService.csproj": {
+                "projectPath": "G:\\#GB\\#SoftwareArchitecture\\Lesson12\\HW12\\program_architect\\hometask_12\\ClinicService\\ClinicService\\ClinicService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
